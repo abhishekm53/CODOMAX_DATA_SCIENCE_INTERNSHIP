@@ -5,7 +5,8 @@
 ---
 
 ## 📌 Project Overview
-Briefly describe the objective of this specific task or project. For example: *This project implements a predictive machine learning model to estimate student exam scores based on historical study hours and attendance metrics, utilizing standard Python data science libraries.*
+This ia repository created during the internship in codomax digital solutions to learn and practice data science concepts and 
+its applications.This repository serves as a digital portfolio of my growth as a Data Scientist during my internship at Codomax. It documents my progression from understanding foundational concepts to implementing real-world machine learning algorithms and practical data-driven applications.
 
 ---
 
