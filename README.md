@@ -10,14 +10,6 @@ its applications.This repository serves as a digital portfolio of my growth as a
 
 ---
 
-## 📂 Repository Structure
-```text
-├── data/                 # Raw and cleaned datasets (e.g., dataset.csv)
-├── notebooks/            # Jupyter Notebooks with step-by-step EDA & modeling
-├── src/                  # Source Python scripts (preprocessing, training, evaluation)
-├── outputs/              # Generated visualizations, plots, and saved models
-└── README.md             # Project documentation
-```
 
 ---
 
